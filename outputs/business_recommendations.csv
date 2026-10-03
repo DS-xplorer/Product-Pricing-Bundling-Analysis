@@ -1,6 +1,0 @@
-Area,Recommendation
-Pricing,Monitor elastic products carefully before increasing prices because demand is more sensitive to price changes.
-Pricing,"Use controlled price testing for products classified as inelastic, especially where sufficient historical observations are available."
-Bundling,Test bundles for product pairs showing strong lift and sufficient support.
-Bundling,Use high-confidence product pairs as cross-selling opportunities.
-Data Quality,"Continue monitoring missing customer IDs, duplicate transactions and invalid transaction records during future analysis."

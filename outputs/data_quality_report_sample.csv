@@ -1,9 +1,0 @@
-Column,Data_Type,Missing_Count,Missing_%,Unique_Values,Quality_Status
-Customer ID,float64,107927,20.54,4383,REVIEW
-Description,object,2928,0.56,4681,REVIEW
-StockCode,object,0,0.0,4632,PASS
-Invoice,object,0,0.0,28816,PASS
-Quantity,int64,0,0.0,825,PASS
-InvoiceDate,datetime64[ns],0,0.0,25296,PASS
-Price,float64,0,0.0,1606,PASS
-Country,object,0,0.0,40,PASS
