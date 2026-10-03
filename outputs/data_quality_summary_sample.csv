@@ -1,0 +1,14 @@
+Metric,Value
+Total Rows,525461
+Total Columns,8
+Duplicate Rows,6865
+Cancellation Rows,10206
+Negative Quantity Rows,12326
+Zero Quantity Rows,0
+Negative Price Rows,3
+Zero Price Rows,3687
+Missing Customer IDs,107927
+Missing Dates,0
+Unique Products,4632
+Unique Customers,4383
+Unique Countries,40
